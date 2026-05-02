@@ -6,9 +6,9 @@
 
 *Passionate about turning complex data into intelligent systems — from LLM pipelines and multimodal AI to full-stack applications and research.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jahnavigangishetti.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavig/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangishettijahnavi@gmail.com)
 
 </div>
 
@@ -91,11 +91,6 @@ jahnavi = {
 
 ---
 
-### 📊 [Project 3 — Coming Soon](#)
-> Add your next project here
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -121,7 +116,7 @@ jahnavi = {
 
 I'm always open to interesting collaborations, research opportunities, and conversations about AI and data.
 
-**Reach me at:** YOUR_EMAIL
+**Reach me at:** gangishettijahnavi@gmail.com
 
 <div align="center">
 
