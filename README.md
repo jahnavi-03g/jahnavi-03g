@@ -86,8 +86,18 @@ jahnavi = {
 
 ---
 
-### 🔬 [Project 2 — Coming Soon](#)
-> Add your next project here
+### 🗄️ [AskQL — Natural Language to SQL Query Engine](https://github.com/jahnavi-03g/askql)
+> Conversational data querying tool that translates plain English questions into optimized SQL — making databases accessible to anyone, no SQL knowledge required
+
+- Natural language processing pipeline that parses user intent and maps it to schema-aware SQL generation via LLM
+- Schema introspection engine that auto-reads database structure to generate contextually accurate queries
+- Query validation and error correction layer that detects and fixes malformed SQL before execution
+- Full query execution pipeline with results rendered as clean, readable tables and exportable data
+- Supports multi-turn conversations — ask follow-up questions and refine queries in plain English
+
+`Python` `LLM` `SQL` `PostgreSQL` `FastAPI` `React` `NLP` `Prompt Engineering`
+
+🔗 **[Live Demo](https://main.d3lkn7teteew8i.amplifyapp.com/)**
 
 ---
 
