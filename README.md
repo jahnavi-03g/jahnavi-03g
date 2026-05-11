@@ -9,8 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jahnavigangishetti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavig/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jahnavig_1073)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangishettijahnavi@gmail.com)
-
 </div>
 
 ---
@@ -117,13 +115,11 @@ jahnavi = {
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-![Jahnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahnavi-03g&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=6366f1&icon_color=10b981&text_color=e5e7eb)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi-03g&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0f1a&title_color=6366f1&text_color=e5e7eb)
+![GitHub Streak](https://streak-stats.demolab.com?user=jahnavi-03g&theme=tokyonight&hide_border=true&background=0f0f1a&ring=6366f1&fire=10b981&currStreakLabel=e5e7eb&sideLabels=e5e7eb&dates=6b7280)
 
 </div>
 
