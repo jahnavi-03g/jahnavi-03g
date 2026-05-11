@@ -17,7 +17,7 @@
 
 ```python
 jahnavi = {
-    "focus"     : ["Generative AI", "ML Engineering", "Data Engineering", "Software Development"],
+    "focus"     : ["Software Development", "Generative AI", "Data Engineering"],
     "currently" : "Building GRNs for cataract research + working on LLM evaluation tools",
     "interests" : ["LLM Failure Analysis", "Agentic Systems", "Data Pipelines", "Backend Engineering"],
     "fun_fact"  : "I spend a lot of time figuring out why models get things wrong ⚡"
