@@ -2,12 +2,13 @@
 
 # Hey, I'm Jahnavi Gangishetti 👋
 
-**Building at the intersection of AI, Data, and Software**
+**Building AI systems, data pipelines, and backend software**
 
-*Passionate about turning complex data into intelligent systems — from LLM pipelines and multimodal AI to full-stack applications and research.*
+*Interested in how language models behave, where they fail, and how to build systems that catch it.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jahnavigangishetti.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavig/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jahnavig_1073)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangishettijahnavi@gmail.com)
 
 </div>
@@ -18,11 +19,10 @@
 
 ```python
 jahnavi = {
-    "focus"      : ["Generative AI", "ML Engineering", "Data Science", "Research", "Full Stack AI"],
-    "currently"  : "Building multimodal AI systems and exploring LLM applications",
-    "interests"  : ["LLM Pipelines", "Multimodal AI", "Statistical Modeling", "Data Engineering"],
-    "looking_for": ["AI/ML roles", "Data Science", "Research", "GenAI Engineering"],
-    "fun_fact"   : "I turn PDFs and charts into business intelligence using AI ⚡"
+    "focus"     : ["Generative AI", "ML Engineering", "Data Engineering", "Software Development"],
+    "currently" : "Building GRNs for cataract research + working on LLM evaluation tools",
+    "interests" : ["LLM Failure Analysis", "Agentic Systems", "Data Pipelines", "Backend Engineering"],
+    "fun_fact"  : "I spend a lot of time figuring out why models get things wrong ⚡"
 }
 ```
 
@@ -35,7 +35,7 @@ jahnavi = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **AI / ML**
 
@@ -43,61 +43,77 @@ jahnavi = {
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude-191919?style=flat-square)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=flat-square)
 
-**Data**
+**Data Engineering**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-**Web & Frameworks**
+**Backend & Frameworks**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Testing & Evaluation**
+
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit_Testing-brightgreen?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-6366F1?style=flat-square)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### ⚡ [VisionIQ — Multimodal Business Intelligence Agent](https://github.com/jahnavi-03g/visioniq)
-> AI-powered analytics system that transforms charts, dashboards, and PDFs into structured business intelligence using Claude Sonnet 4
+> Multimodal AI agent that reads images, charts, and PDFs and answers business questions with structured, grounded insights
 
-- Prompt-engineered LLM pipeline with deterministic 5-section BI output format
-- Multimodal inference over images and PDFs via Anthropic's vision + document APIs
-- Stateful multi-turn conversational memory with full message history reconstruction
-- Production deployment with Google OAuth, Supabase PostgreSQL, and row-level security
+- Prompt-engineered pipeline with Claude Sonnet 4 via Anthropic's vision and document APIs
+- Spent significant time analyzing where the model gave confidently wrong answers and tightening prompts to reduce it
+- FastAPI backend with Google OAuth, Supabase row-level security, per-user chat history in PostgreSQL
+- End-to-end tests to catch regressions when model behavior shifted across versions
 
-`Claude Sonnet 4` `Anthropic API` `React` `Node.js` `Supabase` `PostgreSQL` `Render`
+`Claude Sonnet 4` `Anthropic API` `FastAPI` `Supabase` `PostgreSQL` `Docker` `Render`
 
 🔗 **[Live Demo](https://visioniq-6tdn.onrender.com)**
 
 ---
 
-### 🗄️ [AskQL — Natural Language to SQL Query Engine](https://github.com/jahnavi-03g/askql)
-> Conversational data querying tool that translates plain English questions into optimized SQL — making databases accessible to anyone, no SQL knowledge required
+### 🗄️ [AskQL — Natural Language to SQL Agent (AWS Bedrock)](https://github.com/jahnavi-03g/askql)
+> Converts plain English questions into SQL queries using AWS Bedrock Agents and Knowledge Bases
 
-- Natural language processing pipeline that parses user intent and maps it to schema-aware SQL generation via LLM
-- Schema introspection engine that auto-reads database structure to generate contextually accurate queries
-- Query validation and error correction layer that detects and fixes malformed SQL before execution
-- Full query execution pipeline with results rendered as clean, readable tables and exportable data
-- Supports multi-turn conversations — ask follow-up questions and refine queries in plain English
+- Found the model consistently struggled with multi-table joins and ambiguous column names — designed orchestration to handle these explicitly
+- AWS S3 as the data lake layer; agent workflows for schema inference and multi-table reasoning
+- Validated every output with automated tests rather than relying on spot checks
 
-`Python` `LLM` `SQL` `PostgreSQL` `FastAPI` `React` `NLP` `Prompt Engineering`
+`AWS Bedrock` `S3` `Knowledge Bases` `FastAPI` `SQL` `PostgreSQL` `Prompt Engineering`
 
 🔗 **[Live Demo](https://main.d3lkn7teteew8i.amplifyapp.com/)**
+
+---
+
+### 🧬 [EyeNet — Gene Regulatory Network Visualization](https://github.com/jahnavi-03g/eyenet)
+> Live research platform for constructing and visualizing GRNs from validated biological datasets, focused on cataract research
+
+- Python backend with graph analysis algorithms to model gene interaction networks
+- Built as part of active research at University of Delaware (Dr. Salil Lachke)
+
+`Python` `Graph Analysis` `FastAPI` `Research`
+
+🔗 **[Live Demo](https://eyenet.onrender.com)**
 
 ---
 
@@ -115,21 +131,17 @@ jahnavi = {
 
 ## 🔭 What I'm Working On
 
-- 🧠 Exploring **agentic AI systems** with tool use and multi-step reasoning
-- 📊 Building **data pipelines** for real-world analytical workflows
-- 📚 Researching at the intersection of **NLP, multimodal AI, and decision intelligence**
-- 🛠️ Contributing to **open source AI tooling**
+- 🧠 Building tools to analyze and categorize LLM failure modes systematically
+- 🗄️ Automated code review grading combining AST-based checks with LLM evaluation
+- 🧬 Gene Regulatory Network research at University of Delaware
+- 📝 Writing about ML and AI on [Medium](https://medium.com/@jahnavig_1073)
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to interesting collaborations, research opportunities, and conversations about AI and data.
+Open to interesting projects and conversations about AI, data, and software.
 
-**Reach me at:** gangishettijahnavi@gmail.com
-
-<div align="center">
-
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+**gangishettijahnavi@gmail.com**
 
 </div>
